@@ -92,11 +92,11 @@ int main(){
   printf("Número de Pontos Turísticos: %d\n", turistico);
 
   // nivel aventureiro  
-  
-  pibc = (pib / populacao);
+
+  pibc = pib / populacao;
   printf("PIB per Capita: %f\n", pibc);
 
-  densidade = (populacao / area);
+  densidade = populacao / area;
   printf("Densidade Populacional: %f\n", densidade);
 
   // Área para exibição dos dados da segunda cidade
