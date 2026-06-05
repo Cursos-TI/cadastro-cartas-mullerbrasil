@@ -92,7 +92,7 @@ int main(){
   printf("Número de Pontos Turísticos: %d\n", turistico);
 
     
-  pibc = (populacao / area);
+  pibc = (pib / populacao);
   printf("PIB per Capita: %f\n", pibc);
 
   densidade = (populacao / area);
@@ -109,7 +109,7 @@ int main(){
   printf("Área: %.2f\n", area2);
   printf("Número de Pontos Turísticos: %d\n", turistico2);
 
-  pibc2 = populacao / area;
+  pibc2 = pib2 / populacao2;
   printf("PIB per Capita: %f\n", pibc2);
   
 
