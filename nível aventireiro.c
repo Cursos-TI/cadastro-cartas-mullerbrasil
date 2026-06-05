@@ -91,7 +91,8 @@ int main(){
   printf("Área: %.2f\n", area);
   printf("Número de Pontos Turísticos: %d\n", turistico);
 
-    
+  // nivel aventureiro  
+  
   pibc = (pib / populacao);
   printf("PIB per Capita: %f\n", pibc);
 
@@ -108,6 +109,9 @@ int main(){
   printf("PIB: %.2f\n", pib2);
   printf("Área: %.2f\n", area2);
   printf("Número de Pontos Turísticos: %d\n", turistico2);
+
+
+  // nivel aventureiro  
 
   pibc2 = pib2 / populacao2;
   printf("PIB per Capita: %f\n", pibc2);
